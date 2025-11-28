@@ -54,7 +54,12 @@
 
 **👉 [Try the Live Demo on Streamlit Cloud](https://interview-coach-ai.streamlit.app)**
 
-*Experience the full functionality with sample interview questions and responses*
+*Note: If the link doesn't work, deploy the app on [Streamlit Cloud](https://share.streamlit.io) to get your live demo URL*
+
+**To deploy and get your demo link:**
+1. Make repository public: [Settings](https://github.com/Pranamya1833/interview-coach-ai/settings)
+2. Deploy on [Streamlit Cloud](https://share.streamlit.io)
+3. Your demo link will be: `https://[your-app-name].streamlit.app`
 
 ---
 
