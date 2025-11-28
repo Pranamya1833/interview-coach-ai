@@ -22,7 +22,6 @@ https://github.com/Pranamya1833/interview-coach-ai/blob/main/app.py
 - Python, Streamlit
 - **Intelligent Rule-Based Evaluation System** (100% offline, no APIs needed)
 - Keyword analysis and scoring algorithms
-- LangChain
 
 ## 🚀 Running Locally
 
