@@ -4,6 +4,11 @@ An AI-powered interview evaluation agent that scores candidate answers across fo
 ## 🚀 Repository
 **👉 [View on GitHub](https://github.com/Pranamya1833/interview-coach-ai)**
 
+**For Streamlit Cloud deployment, use this URL:**
+```
+https://github.com/Pranamya1833/interview-coach-ai/blob/main/app.py
+```
+
 ## ✨ Features
 - **100% FREE** - No API keys, no costs, no limits!
 - Scores Communication, Technical Depth, Problem Solving, Culture Fit (1–5)
