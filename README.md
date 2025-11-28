@@ -49,12 +49,15 @@ See architecture.png
 
 Get a live demo link in minutes:
 
-1. **Go to [Streamlit Cloud](https://streamlit.io/cloud)**
+1. **Go to [Streamlit Community Cloud](https://share.streamlit.io)**
 2. **Sign in with your GitHub account**
-3. **Click "New app"**
-4. **Select this repository**: `Pranamya1833/interview-coach-ai`
-5. **Main file path**: `app.py`
-6. **Click "Deploy"**
+3. **Click "Create app"** (button in upper-right corner)
+4. **When asked "Do you already have an app?"** - Select **"Yup, I have an app."**
+5. **Configure your app:**
+   - **Repository**: `Pranamya1833/interview-coach-ai`
+   - **Branch**: `main`
+   - **Main file path**: `app.py`
+6. **Click "Deploy!"**
 
 Your app will be live at: `https://interview-coach-ai.streamlit.app` (or similar)
 
