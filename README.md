@@ -1,10 +1,8 @@
 # Interview Coach & Evaluator
 An AI-powered interview evaluation agent that scores candidate answers across four competencies, provides follow-up questions, and generates personalized coaching tips.
 
-## 🚀 Live Demo
-**👉 [Try the Live Demo](https://interview-coach-ai.streamlit.app)** (Deploy to Streamlit Cloud for live link)
-
-*Note: To get a working demo link, deploy this app to [Streamlit Cloud](https://streamlit.io/cloud) - it's free and takes just a few minutes!*
+## 🚀 Repository
+**👉 [View on GitHub](https://github.com/Pranamya1833/interview-coach-ai)**
 
 ## ✨ Features
 - **100% FREE** - No API keys, no costs, no limits!
@@ -45,20 +43,20 @@ An AI-powered interview evaluation agent that scores candidate answers across fo
 ## 📐 Architecture
 See architecture.png
 
-## 🌐 Deploy to Streamlit Cloud (Free)
+## 📦 Installation & Setup
 
-Get a live demo link in minutes:
+Clone the repository:
+```bash
+git clone https://github.com/Pranamya1833/interview-coach-ai.git
+cd interview-coach-ai
+```
 
-1. **Go to [Streamlit Community Cloud](https://share.streamlit.io)**
-2. **Sign in with your GitHub account**
-3. **Click "Create app"** (button in upper-right corner)
-4. **When asked "Do you already have an app?"** - Select **"Yup, I have an app."**
-5. **Configure your app:**
-   - **Repository**: `Pranamya1833/interview-coach-ai`
-   - **Branch**: `main`
-   - **Main file path**: `app.py`
-6. **Click "Deploy!"**
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-Your app will be live at: `https://interview-coach-ai.streamlit.app` (or similar)
-
-**That's it!** Streamlit Cloud is completely free and handles all the hosting.
+Run the application:
+```bash
+streamlit run app.py
+```
